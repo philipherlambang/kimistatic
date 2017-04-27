@@ -1,0 +1,2 @@
+# kimistatic
+prototype for kimi
